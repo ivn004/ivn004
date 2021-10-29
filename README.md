@@ -6,6 +6,29 @@
   </h2></h1>
   
   
-  <!-- Quote -->\
-<p align="center">I would like to change the World but they won't give me the source code
+
+<p align="center">I would like to change the World but they won't give me the source code!
+
+<code><img height="450" src="https://user-images.githubusercontent.com/74022525/139456470-0d72cd1c-a981-4094-9c93-23cff225ecf7.gif"></code>
+
+# Programador Web FullStack
+  
++ JavasCript
++ NodeJs
++ Git
++ Html
++ Css
++ Express
++ MySQL
++ React
++ Firebase
+  
+  
+# Pentesting   
++  Metasploit
++  Nmap
++  Nikto
++  hacking de dispositivos android 
+  
+  
   
