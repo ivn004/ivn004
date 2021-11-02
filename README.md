@@ -25,6 +25,7 @@
   
   
 # Pentesting   
++  Kali Linux
 +  Metasploit
 +  Nmap
 +  Nikto
